@@ -6,6 +6,14 @@
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
+  [
+  {
+    "id": "75b2ceae56fe1211",
+    "username": "kazin",
+    "password": "kazin",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
